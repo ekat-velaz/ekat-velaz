@@ -1,16 +1,16 @@
 ![I am a Junior Frontend Developer 👩🏻‍💻](https://github.com/ekat-velaz/ekat-velaz/blob/main/github-banner.png)
 
-# Hi there 👋, my name is Katya Velazquez!
-I am a Junior Frontend Developer 👩🏻‍💻
+# Katya Velazquez
+Hi there 👋 I am a Junior Frontend Developer 👩🏻‍💻
 I love creating interesting projects and currently still learning more about HTML, CSS, JavaScript and it's frameworks! On my free time apart from coding I like spending time with friends and family and travel a lot 🌍
 
-##Skills: 
+## Skills and Experience: 
 - JS
 - HTML
 - CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React, Node JS, Bootstrap 
+## More information:
+- 🌱 I’m currently learning React, Node JS, Bootstrap and other stuff
 - 📫 How to reach me: ekatvelaz@gmail.com 
 - ⚡ Fun fact: next year i'll get a cat. I need this in my life.. 
 
