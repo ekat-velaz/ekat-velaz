@@ -16,7 +16,7 @@ Skills: JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekat-velaz&show_icons=true&theme=rose&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=rose&include_all_commits=true&hide=stars,commits,prs,issues,contribs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=rose&include_all_commits=true&hide=stars,issues)  
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=synthwave)
