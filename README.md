@@ -5,7 +5,7 @@ I love creating interesting projects and currently still learning more about HTM
 
 Skills: JS / HTML / CSS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=gruvebox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=gruvbox)
 <!--
 **ekat-velaz/ekat-velaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
