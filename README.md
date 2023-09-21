@@ -14,9 +14,9 @@ Skills: JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekat-velaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ekaterina-velazquez-0bb44a292/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100079784062688)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ekat-velaz.github.io/protfolio/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekat-velaz&show_icons=true&theme=synthwave&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekat-velaz&show_icons=true&theme=rose&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=gradient)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=rose&include_all_commits=true&hide=stars,commits,prs,issues,contribs)  
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=synthwave)
