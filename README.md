@@ -4,7 +4,10 @@
 I am a Junior Frontend Developer 👩🏻‍💻
 I love creating interesting projects and currently still learning more about HTML, CSS, JavaScript and it's frameworks! On my free time apart from coding I like spending time with friends and family and travel a lot 🌍
 
-Skills: JS / HTML / CSS
+##Skills: 
+- JS
+- HTML
+- CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React, Node JS, Bootstrap 
