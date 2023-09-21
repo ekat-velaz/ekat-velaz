@@ -1,4 +1,4 @@
-(https://github.com/ekat-velaz/ekat-velaz/blob/main/github-banner.png)
+![I am a Junior Frontend Developer 👩🏻‍💻](https://github.com/ekat-velaz/ekat-velaz/blob/main/github-banner.png)
 
 # Hi there 👋, my name is Katya Velazquez!
 I am a Junior Frontend Developer 👩🏻‍💻
