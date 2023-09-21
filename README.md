@@ -1,7 +1,11 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=ekat-velaz&show_icons=true&theme=gruvbox)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=radical)
+### Hi there 👋, my name is Katya Velazquez!
+#### I am a Junior Frontend Developer 👩🏻‍💻
+I love creating interesting projects and currently still learning more about HTML, CSS, JavaScript and it's frameworks! On my free time apart from coding I like spending time with friends and family and travel a lot 🌍
+
+Skills: JS / HTML / CSS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=gruvebox)
 <!--
 **ekat-velaz/ekat-velaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
