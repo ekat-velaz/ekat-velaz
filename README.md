@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Katya Velazquez!
-#### I am a Junior Frontend Developer 👩🏻‍💻
-![I am a Junior Frontend Developer 👩🏻‍💻](https://media.licdn.com/dms/image/D4E16AQE5oktCmfickA/profile-displaybackgroundimage-shrink_350_1400/0/1695324979035?e=1700697600&v=beta&t=wE_T2yWJo8w-XCEgtLBj8kjbLv5mSN3acoGu2hDXWXA)
+([https://media.licdn.com/dms/image/D4E16AQE5oktCmfickA/profile-displaybackgroundimage-shrink_350_1400/0/1695324979035?e=1700697600&v=beta&t=wE_T2yWJo8w-XCEgtLBj8kjbLv5mSN3acoGu2hDXWXA](https://github.com/ekat-velaz/ekat-velaz/blob/main/github-banner.png))
 
+# Hi there 👋, my name is Katya Velazquez!
+I am a Junior Frontend Developer 👩🏻‍💻
 I love creating interesting projects and currently still learning more about HTML, CSS, JavaScript and it's frameworks! On my free time apart from coding I like spending time with friends and family and travel a lot 🌍
 
 Skills: JS / HTML / CSS
