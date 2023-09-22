@@ -16,15 +16,11 @@ I love creating interesting projects and currently still learning more about HTM
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" **alt="ESLint" width="40" height="40"/>
 </div>
 
-## More information:
-- 🌱 I’m currently learning React, Node JS, Bootstrap and other stuff
-- ⚡ Fun fact: next year i'll get a cat. I need this in my life.. 
-
 ## How to reach me:
 
 <div>
    <a href="https://github.com/ekat-velaz"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/ekaterina-velazquez-0bb44a292/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/></a>
+  <a href="www.linkedin.com/in/ekaterina-velazquez-0bb44a292"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/></a>
   <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100079784062688"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="facebook" **alt="facebook" width="40" height="40"/></a>
 </div>
 
@@ -34,6 +30,10 @@ I love creating interesting projects and currently still learning more about HTM
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekat-velaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ekaterina-velazquez-0bb44a292/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100079784062688)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ekat-velaz.github.io/protfolio/)  
 -->
+
+## More information:
+- 🌱 I’m currently learning React, Node JS, Bootstrap and other stuff
+- ⚡ Fun fact: next year i'll get a cat. I need this in my life.. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekat-velaz&show_icons=true&theme=rose&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekat-velaz&show_icons=true&theme=rose&include_all_commits=true&hide=stars,issues)  
 
