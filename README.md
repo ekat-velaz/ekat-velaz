@@ -1,6 +1,6 @@
-![I am a Junior Frontend Developer 👩🏻‍💻](https://github.com/ekat-velaz/ekat-velaz/blob/main/github-banner.png)
+![I am a Junior Frontend Developer 👩🏻‍💻](https://github.com/ekat-velaz/ekat-velaz/blob/main/Beige%20Classy%20Personal%20LinkedIn%20Banner.png)
 
-#                                                   Katya Velazquez
+# Katya Velazquez
 Hi there 👋 I am a Junior Frontend Developer 👩🏻‍💻
 I love creating interesting projects and currently still learning more about HTML, CSS, JavaScript and it's frameworks! On my free time apart from coding I like spending time with friends and family and travel a lot 🌍
 
