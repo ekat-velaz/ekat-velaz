@@ -20,9 +20,13 @@ I love creating interesting projects and currently still learning more about HTM
 
 - ✉️ Email: ekatvelaz@gmail.com
 -  <div>
-   <a href="https://github.com/ekat-velaz"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/></a>
-  </div>
-  LinkedIn: www.linkedin.com/in/ekaterina-velazquez-0bb44a292
+    <a href="www.linkedin.com/in/ekaterina-velazquez-0bb44a292"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/></a>
+  </div> LinkedIn: www.linkedin.com/in/ekaterina-velazquez-0bb44a292
+- <div>
+    <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100079784062688"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="facebook" **alt="facebook" width="40" height="40"/></a>
+  </div> Facebook: [Facebook](https://www.facebook.com/profile.php?id=100079784062688)
+
+
   
 <div>
    <a href="https://github.com/ekat-velaz"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/></a>
