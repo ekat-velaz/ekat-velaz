@@ -18,6 +18,12 @@ I love creating interesting projects and currently still learning more about HTM
 
 ## How to reach me:
 
+- ✉️ Email: ekatvelaz@gmail.com
+-  <div>
+   <a href="https://github.com/ekat-velaz"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/></a>
+  </div>
+  LinkedIn: www.linkedin.com/in/ekaterina-velazquez-0bb44a292
+  
 <div>
    <a href="https://github.com/ekat-velaz"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/></a>
   <a href="www.linkedin.com/in/ekaterina-velazquez-0bb44a292"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/></a>
