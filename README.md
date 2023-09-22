@@ -19,12 +19,8 @@ I love creating interesting projects and currently still learning more about HTM
 ## How to reach me:
 
 - ✉️ Email: ekatvelaz@gmail.com
--  <div>
-    <a href="www.linkedin.com/in/ekaterina-velazquez-0bb44a292"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/></a>
-  </div>LinkedIn: www.linkedin.com/in/ekaterina-velazquez-0bb44a292
--<div>
-    <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100079784062688"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="facebook" **alt="facebook" width="40" height="40"/></a>
-  </div>Facebook: https://www.facebook.com/profile.php?id=100079784062688
+-  <div> <a href="www.linkedin.com/in/ekaterina-velazquez-0bb44a292"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/></a> LinkedIn: www.linkedin.com/in/ekaterina-velazquez-0bb44a292</div>
+- <div><a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100079784062688"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="facebook" **alt="facebook" width="40" height="40"/></a> Facebook: https://www.facebook.com/profile.php?id=100079784062688 </div>
 
 
   
